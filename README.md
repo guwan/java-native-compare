@@ -1,5 +1,8 @@
-# java-native-compare
-Comparison of using GraalVM to package Java projects and generate various native applications.
+# java原生打包对比
+
+简体中文 | [English](./README-en_us.md)
+
+使用GraalVM打包java项目，生成各种原生应用对比。
 
 
 |                | 打包时间（秒）   | 启动时间（毫秒） | 原生应用大小MB   | 传统jar包大小MB |
